@@ -29,11 +29,11 @@ Built for **personal finance tracking** in an easy and beautiful way! 🚀
 
 | Dashboard (Form)             | Pie Chart (Spending Distribution)  |
 |---------------------------------------|------------------------------------|
-| ![Form](Dashboard.png) | ![Pie Chart]() |
+| ![Form](https://github.com/yoboi-exe/budget-tracker-visualizer/blob/main/Images/Dashboard.png?raw=true) | ![Pie Chart](https://github.com/yoboi-exe/budget-tracker-visualizer/blob/main/Images/Pie%20Chart.png?raw=true) |
 
 | Export Options                       | Bar Chart (By Payment Method)       |
 |---------------------------------------|-------------------------------------|
-| ![Export]() | ![Bar Chart](https://github.com/yoboi-exe/budget-tracker-visualizer/blob/main/Images/Bar%20chart.png?raw=true) |
+| ![Export](https://github.com/yoboi-exe/budget-tracker-visualizer/blob/main/Images/Export.png?raw=true) | ![Bar Chart](https://github.com/yoboi-exe/budget-tracker-visualizer/blob/main/Images/Bar%20chart.png?raw=true) |
 
 ---
 
