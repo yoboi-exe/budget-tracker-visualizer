@@ -33,7 +33,7 @@ Built for **personal finance tracking** in an easy and beautiful way! 🚀
 
 | Export Options                       | Bar Chart (By Payment Method)       |
 |---------------------------------------|-------------------------------------|
-| ![Export]() | ![Bar Chart]() |
+| ![Export]() | ![Bar Chart](Barchart.png) |
 
 ---
 
