@@ -22,12 +22,13 @@ Built for **personal finance tracking** in an easy and beautiful way! 🚀
 ---
 ## 🛠️ Installation
 To run the Budget Tracker & Visualizer application, you need to install the following Python packages:
-'''bash pip install pandas
+'''bash 
+pip install pandas
 pip install matplotlib
 pip install tkcalendar
 pip install fpdf
 pip install openpyxl
-
+'''
 ---
 ## 📸 Screenshots
 
