@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner1.png" alt="Banner" width="800"/>
-</p>
-
 # 💼 Budget Tracker & Visualizer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
