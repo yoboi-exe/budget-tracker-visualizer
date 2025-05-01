@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 import sqlite3
 import datetime
@@ -240,7 +239,6 @@ Button(control_area, text="Exit", width=10, bg="#455A64", fg="white", font=("Ari
 # --- Launch ---
 refresh_expenses()
 app.mainloop()
-=======
 import os
 import sqlite3
 import datetime
@@ -482,4 +480,3 @@ Button(control_area, text="Exit", width=10, bg="#455A64", fg="white", font=("Ari
 # --- Launch ---
 refresh_expenses()
 app.mainloop()
->>>>>>> 474debc213123ad313f3452e1d7ff703bcd218c5
