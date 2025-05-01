@@ -33,7 +33,7 @@ Built for **personal finance tracking** in an easy and beautiful way! 🚀
 
 | Export Options                       | Bar Chart (By Payment Method)       |
 |---------------------------------------|-------------------------------------|
-| ![Export]() | ![Bar Chart](Barchart.png) |
+| ![Export]() | ![Bar Chart](https://github.com/yoboi-exe/budget-tracker-visualizer/blob/main/Images/Bar%20chart.png?raw=true) |
 
 ---
 
